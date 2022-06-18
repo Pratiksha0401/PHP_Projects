@@ -1,0 +1,8 @@
+book_id,title,total_pages,rating,isbn,published_date,author_name,genres,publishers
+1,"Blue Umbrella",321,4.20,"BU324","2022-02-15","Ram","Comic","Target"
+1,"Blue Umbrella",321,4.20,"BU324","2022-02-15","Ram","Action","Target"
+1,"Blue Umbrella",321,4.20,"BU324","2022-02-15","Rani","Comic","Target"
+1,"Blue Umbrella",321,4.20,"BU324","2022-02-15","Rani","Action","Target"
+3,"Frozen",754,4.10,"F74098","2022-02-03","Rani","Comic","Target"
+4,"Tiger",876,4.60,"T0987","2022-02-07","Ram","Action","Navneet"
+5,"Good to Best",875,4.30,"GTB00985","2022-02-13","Rani","Action","Navneet"
